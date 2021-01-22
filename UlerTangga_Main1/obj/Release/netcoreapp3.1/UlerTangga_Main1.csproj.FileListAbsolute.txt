@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\bin\Release\netcoreapp3.1\UlerTangga_Main1.exe
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\bin\Release\netcoreapp3.1\UlerTangga_Main1.deps.json
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\bin\Release\netcoreapp3.1\UlerTangga_Main1.runtimeconfig.json
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\bin\Release\netcoreapp3.1\UlerTangga_Main1.runtimeconfig.dev.json
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\bin\Release\netcoreapp3.1\UlerTangga_Main1.dll
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\bin\Release\netcoreapp3.1\UlerTangga_Main1.pdb
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\obj\Release\netcoreapp3.1\UlerTangga_Main1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\obj\Release\netcoreapp3.1\UlerTangga_Main1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\obj\Release\netcoreapp3.1\UlerTangga_Main1.AssemblyInfo.cs
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\obj\Release\netcoreapp3.1\UlerTangga_Main1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\obj\Release\netcoreapp3.1\UlerTangga_Main1.dll
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\obj\Release\netcoreapp3.1\UlerTangga_Main1.pdb
+C:\Users\User\source\repos\UlerTangga_Main1\UlerTangga_Main1\obj\Release\netcoreapp3.1\UlerTangga_Main1.genruntimeconfig.cache
